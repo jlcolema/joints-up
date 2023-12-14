@@ -1,0 +1,544 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hero-background.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center-start text-start",
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
+            "subheading": "Welcome to Joints Up",
+            "title": "Headline One Goes Right Here - H1",
+            "heading_tag": "h1",
+            "button_text": "Call to Action Button",
+            "button_link": "shopify:\/\/collections",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#12254b",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "af654211-c1f1-42ea-a83b-930a54963196": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hero-background.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center-start text-start",
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
+            "subheading": "Welcome to Joints Up",
+            "title": "Headline Two Goes Right Here - H1",
+            "heading_tag": "h1",
+            "button_text": "Call to Action Button",
+            "button_link": "shopify:\/\/collections",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#12254b",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "d94b1a63-95ad-4e25-a2c8-55d5c529667d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hero-background.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center-start text-start",
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
+            "subheading": "Welcome to Joints Up",
+            "title": "Headline Three Goes Right Here - H1",
+            "heading_tag": "h1",
+            "button_text": "Call to Action Button",
+            "button_link": "shopify:\/\/collections",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#12254b",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-1",
+        "af654211-c1f1-42ea-a83b-930a54963196",
+        "d94b1a63-95ad-4e25-a2c8-55d5c529667d"
+      ],
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "numbers",
+        "transition_type": "fade_with_text",
+        "autoplay": true,
+        "cycle_speed": 6,
+        "background": "#81ffdc",
+        "background_gradient": "linear-gradient(0deg, rgba(129, 255, 220, 1), rgba(245, 252, 255, 1) 100%)"
+      }
+    },
+    "image-link-blocks": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "1664424046b00c932c-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cat-sample-packs.jpg",
+            "stretch_image": true,
+            "link_text": "Sample Packs",
+            "link_url": "shopify:\/\/collections",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "6aaa726d-bc50-497b-8ad6-04836909f61e": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cat-celebrity.jpg",
+            "stretch_image": true,
+            "link_text": "Celebrity Endorsed",
+            "link_url": "shopify:\/\/collections",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "8ef9be86-93c8-4e2d-baf3-ba9191b2d91b": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cat-flowerprorolls.jpg",
+            "stretch_image": true,
+            "link_text": "Flower + PreRolls",
+            "link_url": "shopify:\/\/collections",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "c250e0a2-f5f4-4434-9296-599a251f43af": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cat-cartridges.jpg",
+            "stretch_image": true,
+            "link_text": "Cartridges + Vape",
+            "link_url": "shopify:\/\/collections",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "c07e9de5-50dd-49a0-adef-cd696d6ba987": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cat-edibles.jpg",
+            "stretch_image": true,
+            "link_text": "Gummies + Edibles",
+            "link_url": "shopify:\/\/collections",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "1664424046b00c932c-0",
+        "6aaa726d-bc50-497b-8ad6-04836909f61e",
+        "8ef9be86-93c8-4e2d-baf3-ba9191b2d91b",
+        "c250e0a2-f5f4-4434-9296-599a251f43af",
+        "c07e9de5-50dd-49a0-adef-cd696d6ba987"
+      ],
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "settings": {
+        "full_width": true,
+        "text": "Hemp-derived products available around the globe and backed by Cannaglobe",
+        "text_size": "large",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#12254b",
+        "text_gradient": ""
+      }
+    },
+    "e4c58290-5f27-437d-858f-a029a4ffd4c8": {
+      "type": "media-grid",
+      "blocks": {
+        "template--14916547739782__e4c58290-5f27-437d-858f-a029a4ffd4c8-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fpo_-_shop_image.jpg",
+            "title": "Shop Products Here",
+            "heading_tag": "h4",
+            "link_url": "shopify:\/\/pages\/shop",
+            "link_text": "",
+            "mobile_text_position": "place-self-end-start text-start",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-end-start sm:text-start",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "template--14916547739782__e4c58290-5f27-437d-858f-a029a4ffd4c8-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fpo_-_cannaglobe_image.jpg",
+            "title": "Events",
+            "heading_tag": "h4",
+            "link_url": "\/blogs\/news\/tagged\/events-promos",
+            "link_text": "",
+            "mobile_text_position": "place-self-end-start text-start",
+            "desktop_column_span": 1,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-end-start sm:text-start",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "04abf077-0131-4d4b-af6a-9fafb3ad92d7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fpo_-_opportunity_image.jpg",
+            "title": "Opportunities",
+            "heading_tag": "h4",
+            "link_url": "shopify:\/\/pages\/opportunities",
+            "link_text": "",
+            "mobile_text_position": "place-self-end-start text-start",
+            "desktop_column_span": 1,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-end-start sm:text-start",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "template--14916547739782__e4c58290-5f27-437d-858f-a029a4ffd4c8-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/about_-_cannaglobe_image.jpg",
+            "title": "About CannaGlobe",
+            "heading_tag": "h4",
+            "link_url": "shopify:\/\/pages\/about-us",
+            "link_text": "",
+            "mobile_text_position": "place-self-end-start text-start",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-end-start sm:text-start",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--14916547739782__e4c58290-5f27-437d-858f-a029a4ffd4c8-image-2",
+        "template--14916547739782__e4c58290-5f27-437d-858f-a029a4ffd4c8-image-1",
+        "04abf077-0131-4d4b-af6a-9fafb3ad92d7",
+        "template--14916547739782__e4c58290-5f27-437d-858f-a029a4ffd4c8-image-3"
+      ],
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "",
+        "background_gradient": ""
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "",
+        "products": [
+
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Best sellers",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "multiple-images-with-text": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "1664424486a2b084ab-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/home_-_image_l.jpg",
+            "image_rotation_degrees": -2,
+            "subheading": "About Us",
+            "title": "Delivering the highest quality hemp-derived products",
+            "content": "<p>In order to accomplish this, we have partnered with the BEST of the BEST in each vertical within our industry to supplement our wide range of core competencies and provide a true turnkey development and manufacturing solution for our customers.<\/p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "1664424486a2b084ab-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/home_-_image_r.jpg",
+            "image_rotation_degrees": 1.5,
+            "subheading": "Innovation. Quality.",
+            "title": "Quality Guaranteed.",
+            "content": "<p>JointsUp & CannaGlobe upholds the highest quality standards in the industry because CannaGlobe manufacturing facilities have credible certifications. SmokeBud's facilities are located in the USA, are FDA Registered, cGMP compliant, uphold ISO 9001 quality management systems, utilize ISO 7 clean rooms, and all products are ISO 17025 tested, gluten-free, and non-GMO.<\/p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664424486a2b084ab-0",
+        "1664424486a2b084ab-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "images_layout": "collage",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "press": {
+      "type": "press",
+      "blocks": {
+        "16644243327ba53d2a-0": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Hemp Connoisseur",
+            "content": "JointsUp is known for providing a first-class buying experience with a large selection of all the \"good stuff!\"",
+            "show_rating": false,
+            "rating": 4
+          }
+        },
+        "16644243327ba53d2a-1": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Jane Appleseed",
+            "content": "Or share content about your promotion, offers...",
+            "show_rating": false,
+            "rating": 4
+          }
+        }
+      },
+      "block_order": [
+        "16644243327ba53d2a-0",
+        "16644243327ba53d2a-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "image-with-text-overlay": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "cd4cc9ea-051d-4173-96c8-aba75076e57b": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "*** Display logo here. ***"
+          }
+        },
+        "1664424230c4756b0e-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Outstanding products of the highest quality and effectiveness",
+            "heading_tag": "h1"
+          }
+        },
+        "22aeddfd-5c93-4b25-a28e-132507dbe194": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "size": "lg",
+            "text": "Online Store",
+            "url": "shopify:\/\/collections",
+            "background": "",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "cd4cc9ea-051d-4173-96c8-aba75076e57b",
+        "1664424230c4756b0e-1",
+        "22aeddfd-5c93-4b25-a28e-132507dbe194"
+      ],
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/home-zoom-image.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "166442457738b23caf-0": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"
+          }
+        },
+        "a5644ac2-d025-4d93-9421-8a3ae376aaf5": {
+          "type": "item",
+          "settings": {
+            "title": "Do I need to setup an account to place an order?",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..<\/p>"
+          }
+        },
+        "dc393905-dcbf-4445-b335-213ff44a2a1e": {
+          "type": "item",
+          "settings": {
+            "title": "Do you offer gift wrapping?",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..<\/p>"
+          }
+        },
+        "166442457738b23caf-1": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"
+          }
+        },
+        "d0774191-004a-43a5-b695-e432e198a54d": {
+          "type": "item",
+          "settings": {
+            "title": "What is your return policy?",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..<\/p>"
+          }
+        },
+        "166442457738b23caf-2": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "166442457738b23caf-0",
+        "a5644ac2-d025-4d93-9421-8a3ae376aaf5",
+        "dc393905-dcbf-4445-b335-213ff44a2a1e",
+        "166442457738b23caf-1",
+        "d0774191-004a-43a5-b695-e432e198a54d",
+        "166442457738b23caf-2"
+      ],
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "title": "Have a question? We are here to help.",
+        "content": "<p>Check out the most common questions our customers asked. Still have questions? Contact our customer support.<\/p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm. EST",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "image-link-blocks",
+    "scrolling-text",
+    "e4c58290-5f27-437d-858f-a029a4ffd4c8",
+    "featured-collection",
+    "multiple-images-with-text",
+    "press",
+    "image-with-text-overlay",
+    "faq"
+  ]
+}

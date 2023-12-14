@@ -1,0 +1,141 @@
+{
+  "type": "footer",
+  "name": "Footer group",
+  "sections": {
+    "text-with-icons": {
+      "type": "text-with-icons",
+      "blocks": {
+        "free-shipping": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-star",
+            "custom_icon": "shopify:\/\/shop_images\/star.svg",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Backed by Cannaglobe",
+            "content": "<p>Products guaranteed to be highest quality.<\/p>"
+          }
+        },
+        "customer-support": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-earth",
+            "custom_icon": "shopify:\/\/shop_images\/earth-americas.svg",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Free Shipping",
+            "content": "<p>Free worldwide shipping on all orders of $99+<\/p>"
+          }
+        },
+        "discount": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-question",
+            "custom_icon": "shopify:\/\/shop_images\/chat.svg",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Customer Support",
+            "content": "<p>Our support team is available M-F, 8a-8p<\/p>"
+          }
+        },
+        "payment": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-credit-card",
+            "custom_icon": "shopify:\/\/shop_images\/card-outline.svg",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Secure Payment",
+            "content": "<p>All payments are processed securely<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "free-shipping",
+        "customer-support",
+        "discount",
+        "payment"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h6",
+        "text_alignment": "center",
+        "icon_spacing": "small",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "newsletter": {
+          "type": "newsletter",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ju-logo-v-color.png",
+            "image_width": 150,
+            "heading_size": "h3",
+            "title": "Sign up for news, updates & 10% off your first order.",
+            "content": ""
+          }
+        },
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "footer-menu-shop",
+            "show_menu_title": true,
+            "menu_title": "Shop"
+          }
+        },
+        "5013bbd1-e3ef-4ccb-9681-a9db0435f77e": {
+          "type": "links",
+          "settings": {
+            "menu": "footer-menu-resources",
+            "show_menu_title": true,
+            "menu_title": "Resources"
+          }
+        },
+        "a11085dc-0450-451c-ab5c-c7625206aef1": {
+          "type": "links",
+          "settings": {
+            "menu": "footer-menu-about-us",
+            "show_menu_title": true,
+            "menu_title": "About Us"
+          }
+        }
+      },
+      "block_order": [
+        "newsletter",
+        "links",
+        "5013bbd1-e3ef-4ccb-9681-a9db0435f77e",
+        "a11085dc-0450-451c-ab5c-c7625206aef1"
+      ],
+      "settings": {
+        "show_social_media": true,
+        "show_payment_icons": true,
+        "show_country_selector": true,
+        "show_country_flag": true,
+        "show_country_name": true,
+        "show_locale_selector": true
+      }
+    }
+  },
+  "order": [
+    "text-with-icons",
+    "footer"
+  ]
+}

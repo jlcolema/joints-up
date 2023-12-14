@@ -1,0 +1,319 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "0be40b1f-741d-4c43-b85e-3eca0c7032f9": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "template--14916548067462__0be40b1f-741d-4c43-b85e-3eca0c7032f9-subheading-1": {
+          "type": "subheading",
+          "settings": {
+            "text": "Opportunity"
+          }
+        },
+        "template--14916548067462__0be40b1f-741d-4c43-b85e-3eca0c7032f9-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Your Own Virtual Dispensary and Online Store.",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--14916548067462__0be40b1f-741d-4c43-b85e-3eca0c7032f9-subheading-1",
+        "template--14916548067462__0be40b1f-741d-4c43-b85e-3eca0c7032f9-heading-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "enable_parallax": false,
+        "image_size": "sm",
+        "image": "shopify:\/\/shop_images\/header-opportunity.jpg",
+        "mobile_text_position": "place-self-center-start text-start",
+        "desktop_text_position": "sm:place-self-center-start sm:text-start",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "9a63c53d-0769-47ea-ae0a-e838d3a861de": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14916908974214__9a63c53d-0769-47ea-ae0a-e838d3a861de-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "CannaGlobe is the First Ever Virtual Dispensary",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "template--14916908974214__9a63c53d-0769-47ea-ae0a-e838d3a861de-subheading-1": {
+          "type": "subheading",
+          "settings": {
+            "text": "You can offer over 100 Best in Class Products discreetly drop shipped to your clients doorstep."
+          }
+        },
+        "template--14916908974214__9a63c53d-0769-47ea-ae0a-e838d3a861de-richtext-1": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Become a Virtual Dispensary Owner today with:<\/strong><\/p><ul><li>No Investment<\/li><li>No Experience<\/li><li>No License<\/li><li>No Apologies<\/li><li>100% Legal<\/li><\/ul><p><strong>Getting started is easy!<\/strong> All you do is buy a VDO Pack; share with you friends and earn rewards.<\/p>"
+          }
+        },
+        "26f404f7-c7ac-4201-9a46-871d42f25479": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "base",
+            "text": "View Opportunity Presentation PDF - English",
+            "url": "shopify:\/\/collections",
+            "background": "#ea3368",
+            "text_color": ""
+          }
+        },
+        "2735276f-9a12-43f5-ae8d-d26e3a9b39ff": {
+          "type": "divider",
+          "settings": {
+          }
+        },
+        "4bf9e6f7-e9e0-4a9a-9f20-1ecd41c34c86": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "*** Add video gallery. ***"
+          }
+        }
+      },
+      "block_order": [
+        "template--14916908974214__9a63c53d-0769-47ea-ae0a-e838d3a861de-heading-1",
+        "template--14916908974214__9a63c53d-0769-47ea-ae0a-e838d3a861de-subheading-1",
+        "template--14916908974214__9a63c53d-0769-47ea-ae0a-e838d3a861de-richtext-1",
+        "26f404f7-c7ac-4201-9a46-871d42f25479",
+        "2735276f-9a12-43f5-ae8d-d26e3a9b39ff",
+        "4bf9e6f7-e9e0-4a9a-9f20-1ecd41c34c86"
+      ],
+      "settings": {
+        "full_width": false,
+        "content_width": "small",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "57b388a3-673a-4086-a1b1-1ae9afe083d3": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "template--14916908974214__57b388a3-673a-4086-a1b1-1ae9afe083d3-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Buy a pack. Have a party. Enjoy the rewards.",
+            "heading_tag": "h1"
+          }
+        },
+        "653135ad-dcd7-4edd-b41d-3e4d68272ae6": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "Opportunity Awaits You Here",
+            "url": "shopify:\/\/collections",
+            "background": "#ffffff",
+            "text_color": "#ea3368"
+          }
+        }
+      },
+      "block_order": [
+        "template--14916908974214__57b388a3-673a-4086-a1b1-1ae9afe083d3-heading-1",
+        "653135ad-dcd7-4edd-b41d-3e4d68272ae6"
+      ],
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "sm",
+        "image": "shopify:\/\/shop_images\/feature_background.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "d28e12cf-7b65-4a49-b17b-3b4e112b4058": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "template--14916908974214__d28e12cf-7b65-4a49-b17b-3b4e112b4058-item-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/opportunity-image_l.jpg",
+            "image_rotation_degrees": -2,
+            "subheading": "Opportunity is waiting",
+            "title": "Join the CannaGlobe Family Network and Make Money",
+            "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.<\/p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "template--14916908974214__d28e12cf-7b65-4a49-b17b-3b4e112b4058-item-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/opportunity-image_r.jpg",
+            "image_rotation_degrees": 1.5,
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.<\/p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14916908974214__d28e12cf-7b65-4a49-b17b-3b4e112b4058-item-1",
+        "template--14916908974214__d28e12cf-7b65-4a49-b17b-3b4e112b4058-item-2"
+      ],
+      "settings": {
+        "full_width": false,
+        "images_layout": "collage",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "af3aef3d-a3d5-4c32-9ad3-edbafa1211e9": {
+      "type": "faq",
+      "blocks": {
+        "template--14916908974214__af3aef3d-a3d5-4c32-9ad3-edbafa1211e9-item-1": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"
+          }
+        },
+        "template--14916908974214__af3aef3d-a3d5-4c32-9ad3-edbafa1211e9-item-3": {
+          "type": "item",
+          "settings": {
+            "title": "Do I need to setup an account to place an order?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.<\/p>"
+          }
+        },
+        "2cb55dd0-d72b-46fa-b692-3d033c35e263": {
+          "type": "item",
+          "settings": {
+            "title": "Do you offer gift wrapping?",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..<\/p>"
+          }
+        },
+        "template--14916908974214__af3aef3d-a3d5-4c32-9ad3-edbafa1211e9-item-2": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"
+          }
+        },
+        "aa273c14-010c-439f-bc60-2f86127d6542": {
+          "type": "item",
+          "settings": {
+            "title": "What is your return policy?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"
+          }
+        },
+        "3bbdb121-d952-482e-aa0b-b94fb15ac83b": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..<\/p>"
+          }
+        },
+        "6614dfa1-3b74-42ca-b358-32c141b8bae2": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14916908974214__af3aef3d-a3d5-4c32-9ad3-edbafa1211e9-item-1",
+        "template--14916908974214__af3aef3d-a3d5-4c32-9ad3-edbafa1211e9-item-3",
+        "2cb55dd0-d72b-46fa-b692-3d033c35e263",
+        "template--14916908974214__af3aef3d-a3d5-4c32-9ad3-edbafa1211e9-item-2",
+        "aa273c14-010c-439f-bc60-2f86127d6542",
+        "3bbdb121-d952-482e-aa0b-b94fb15ac83b",
+        "6614dfa1-3b74-42ca-b358-32c141b8bae2"
+      ],
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "title": "Have a question? We are here to help.",
+        "content": "<p>Check out the most common questions our customers asked. Still have questions? Contact our customer support.<\/p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm. EST",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "c0d0c18c-8e2a-41ed-8a06-6a55f2055d19": {
+      "type": "blog-posts",
+      "blocks": {
+        "template--14916908974214__c0d0c18c-8e2a-41ed-8a06-6a55f2055d19-blog-1": {
+          "type": "blog",
+          "settings": {
+            "blog": "news",
+            "posts_count": 3,
+            "stack_items": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14916908974214__c0d0c18c-8e2a-41ed-8a06-6a55f2055d19-blog-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "show_excerpt": true,
+        "show_date": true,
+        "show_author": false,
+        "show_comments_count": false,
+        "show_category": true,
+        "subheading": "",
+        "title": "Related articles",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "0be40b1f-741d-4c43-b85e-3eca0c7032f9",
+    "9a63c53d-0769-47ea-ae0a-e838d3a861de",
+    "57b388a3-673a-4086-a1b1-1ae9afe083d3",
+    "d28e12cf-7b65-4a49-b17b-3b4e112b4058",
+    "af3aef3d-a3d5-4c32-9ad3-edbafa1211e9",
+    "c0d0c18c-8e2a-41ed-8a06-6a55f2055d19"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "message": {
+          "type": "message",
+          "settings": {
+            "text": "Free standard shipping on order over $99",
+            "url": ""
+          }
+        },
+        "c62f0522-9cd6-45e9-8051-e15b1a2ec061": {
+          "type": "message",
+          "settings": {
+            "text": "Promo ticker bar here",
+            "url": ""
+          }
+        },
+        "a0e1c9d5-e6e4-4c8f-b9a6-202fbc040767": {
+          "type": "message",
+          "settings": {
+            "text": "A question? Visit our contact page to send us a message",
+            "url": "shopify:\/\/pages\/contact"
+          }
+        }
+      },
+      "block_order": [
+        "message",
+        "c62f0522-9cd6-45e9-8051-e15b1a2ec061",
+        "a0e1c9d5-e6e4-4c8f-b9a6-202fbc040767"
+      ],
+      "settings": {
+        "enable_sticky": false,
+        "text_size": "text-xs",
+        "navigation_mode": "scrolling",
+        "scrolling_speed": 10,
+        "background": "#009b9d",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
+    "header": {
+      "type": "header",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "enable_sticky": false,
+        "hide_on_scroll": false,
+        "logo": "{{shop.brand.logo}}",
+        "logo_max_width": 225,
+        "logo_mobile_max_width": 100,
+        "menu": "main-menu",
+        "sidebar_menu": "",
+        "secondary_menu": "",
+        "menu_open_trigger": "hover",
+        "opening_from": "bottom",
+        "layout": "logo_left_navigation_center",
+        "show_social_media": true,
+        "show_locale_selector": true,
+        "show_country_selector": true,
+        "show_country_flag": true,
+        "show_country_name": true,
+        "transparent_header_text_color": "#000000",
+        "reduce_padding": true,
+        "background_opacity": 0,
+        "background_blur_radius": 0
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

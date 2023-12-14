@@ -1,0 +1,289 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "0be40b1f-741d-4c43-b85e-3eca0c7032f9": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "template--14916548067462__0be40b1f-741d-4c43-b85e-3eca0c7032f9-subheading-1": {
+          "type": "subheading",
+          "settings": {
+            "text": "Shift the Stigma"
+          }
+        },
+        "template--14916548067462__0be40b1f-741d-4c43-b85e-3eca0c7032f9-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Shop Online Products.",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--14916548067462__0be40b1f-741d-4c43-b85e-3eca0c7032f9-subheading-1",
+        "template--14916548067462__0be40b1f-741d-4c43-b85e-3eca0c7032f9-heading-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "enable_parallax": false,
+        "image_size": "sm",
+        "image": "shopify:\/\/shop_images\/banner-ShopProducts_2x_378e5436-0308-4d01-ab1b-27b5efd803a5.jpg",
+        "mobile_text_position": "place-self-center-start text-start",
+        "desktop_text_position": "sm:place-self-center-start sm:text-start",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "c0396cdd-07f1-4d6e-9994-8381bd75189f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14917231476870__c0396cdd-07f1-4d6e-9994-8381bd75189f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "A wide variety of products, shipped to your door.",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "template--14917231476870__c0396cdd-07f1-4d6e-9994-8381bd75189f-subheading-1": {
+          "type": "subheading",
+          "settings": {
+            "text": "Fast Shipping, Discreet Packaging. No Id Or Medical Card Required."
+          }
+        },
+        "template--14917231476870__c0396cdd-07f1-4d6e-9994-8381bd75189f-richtext-1": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Choose from a selection of cannabis products including:<\/p><ul><li><a href=\"\/collections\" title=\"All collections\">Product Category One<\/a><\/li><li><a href=\"\/collections\" title=\"All collections\">Product Category Two<\/a><\/li><li><a href=\"\/collections\" title=\"All collections\">Product Category Three<\/a><\/li><li><a href=\"\/collections\" title=\"All collections\">Product Category Four<\/a><\/li><li><a href=\"\/collections\" title=\"All collections\">Product Category Five<\/a><\/li><\/ul><p>Click the link to purchase products online!<\/p>"
+          }
+        },
+        "96c2e49e-afec-4930-ac00-6111b7ffe385": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "base",
+            "text": "Shop My Online CannaGlobe Store",
+            "url": "shopify:\/\/collections",
+            "background": "#ea3368",
+            "text_color": ""
+          }
+        },
+        "d346bcd8-1c94-4e83-8c5f-0f2a9926767a": {
+          "type": "divider",
+          "settings": {
+          }
+        },
+        "a8366c19-9b5b-4c68-8880-e781ad971add": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fpo-shopproducts.png",
+            "width_mode": "full_width",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        }
+      },
+      "block_order": [
+        "template--14917231476870__c0396cdd-07f1-4d6e-9994-8381bd75189f-heading-1",
+        "template--14917231476870__c0396cdd-07f1-4d6e-9994-8381bd75189f-subheading-1",
+        "template--14917231476870__c0396cdd-07f1-4d6e-9994-8381bd75189f-richtext-1",
+        "96c2e49e-afec-4930-ac00-6111b7ffe385",
+        "d346bcd8-1c94-4e83-8c5f-0f2a9926767a",
+        "a8366c19-9b5b-4c68-8880-e781ad971add"
+      ],
+      "settings": {
+        "full_width": false,
+        "content_width": "small",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "da35942d-edb8-4207-9000-456d3e763ac0": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "template--14917231476870__da35942d-edb8-4207-9000-456d3e763ac0-item-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cat-sample-packs.jpg",
+            "stretch_image": true,
+            "link_text": "Sample Packs",
+            "link_url": "shopify:\/\/collections",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "832016a3-4938-4ed2-a17d-d014e1e9e756": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cat-celebrity.jpg",
+            "stretch_image": true,
+            "link_text": "Celebrity Endorsed",
+            "link_url": "shopify:\/\/collections",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "66cdd243-e8d8-4111-831a-eae4e7db5969": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cat-flowerprorolls.jpg",
+            "stretch_image": true,
+            "link_text": "Flower + PreRolls",
+            "link_url": "shopify:\/\/collections",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "1000392c-ac22-40d8-8b33-04cde91b57f4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cat-cartridges.jpg",
+            "stretch_image": true,
+            "link_text": "Cartridges + Vape",
+            "link_url": "shopify:\/\/collections",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "b0c74708-837e-4765-a5fb-1b322a4ecb30": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cat-edibles.jpg",
+            "stretch_image": true,
+            "link_text": "Gummies + Edibles",
+            "link_url": "shopify:\/\/collections",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--14917231476870__da35942d-edb8-4207-9000-456d3e763ac0-item-1",
+        "832016a3-4938-4ed2-a17d-d014e1e9e756",
+        "66cdd243-e8d8-4111-831a-eae4e7db5969",
+        "1000392c-ac22-40d8-8b33-04cde91b57f4",
+        "b0c74708-837e-4765-a5fb-1b322a4ecb30"
+      ],
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "b044fc2e-f5d3-41dc-a26e-c4aa3808d889": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "best-sellers",
+        "products": [
+
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Best sellers",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "c3911c51-9c93-4eae-91c3-e3515a409dcd": {
+      "type": "press",
+      "blocks": {
+        "template--14917231476870__c3911c51-9c93-4eae-91c3-e3515a409dcd-quote-1": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Hemp Connoisseur",
+            "content": "JointsUp is known for providing a first-class buying experience with a large selection of all the \"good stuff!\"",
+            "show_rating": false,
+            "rating": 4
+          }
+        },
+        "template--14917231476870__c3911c51-9c93-4eae-91c3-e3515a409dcd-quote-2": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Jane Appleseed",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": false,
+            "rating": 4
+          }
+        },
+        "template--14917231476870__c3911c51-9c93-4eae-91c3-e3515a409dcd-quote-3": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Johnny Appleseed",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": false,
+            "rating": 4
+          }
+        }
+      },
+      "block_order": [
+        "template--14917231476870__c3911c51-9c93-4eae-91c3-e3515a409dcd-quote-1",
+        "template--14917231476870__c3911c51-9c93-4eae-91c3-e3515a409dcd-quote-2",
+        "template--14917231476870__c3911c51-9c93-4eae-91c3-e3515a409dcd-quote-3"
+      ],
+      "settings": {
+        "full_width": false,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "0be40b1f-741d-4c43-b85e-3eca0c7032f9",
+    "c0396cdd-07f1-4d6e-9994-8381bd75189f",
+    "da35942d-edb8-4207-9000-456d3e763ac0",
+    "b044fc2e-f5d3-41dc-a26e-c4aa3808d889",
+    "c3911c51-9c93-4eae-91c3-e3515a409dcd"
+  ]
+}
