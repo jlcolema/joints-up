@@ -330,8 +330,8 @@
         "1664424486a2b084ab-0": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/home_-_image_l.jpg",
-            "image_rotation_degrees": -2,
+            "image": "shopify:\/\/shop_images\/collage.png",
+            "image_rotation_degrees": -15,
             "subheading": "About Us",
             "title": "Delivering the highest quality hemp-derived products",
             "content": "<p>In order to accomplish this, we have partnered with the BEST of the BEST in each vertical within our industry to supplement our wide range of core competencies and provide a true turnkey development and manufacturing solution for our customers.<\/p>",
@@ -342,7 +342,6 @@
         "1664424486a2b084ab-1": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/home_-_image_r.jpg",
             "image_rotation_degrees": 1.5,
             "subheading": "Innovation. Quality.",
             "title": "Quality Guaranteed.",
@@ -358,7 +357,7 @@
       ],
       "settings": {
         "full_width": false,
-        "images_layout": "collage",
+        "images_layout": "stacked",
         "collage_images_alignment": "middle",
         "background": "",
         "background_gradient": "",
