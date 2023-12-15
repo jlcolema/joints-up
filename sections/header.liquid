@@ -240,6 +240,7 @@ the underlying logic of the menu.
           </nav>
         {%- endif -%}
 
+        {% comment %}
         <div class="header__icon-list">
           {%- if section.settings.show_country_selector and localization.available_countries.size > 1 -%}
             <div class="hidden md:block shrink-0">
@@ -257,7 +258,7 @@ the underlying logic of the menu.
             <span class="sr-only">{{ 'header.general.open_search' | t }}</span>
             {%- render 'icon' with 'search' -%}
           </a>
-          
+
           {%- if shop.customer_accounts_enabled -%}
             <a href="{% if customer %}{{ routes.account_url }}{% else %}{{ routes.account_login_url }}{% endif %}" class="hidden tap-area sm:block">
               <span class="sr-only">{{ 'header.general.open_account' | t }}</span>
@@ -276,6 +277,7 @@ the underlying logic of the menu.
             </div>
           </a>
         </div>
+        {% endcomment %}
       </div>
     </div>
   </store-header>
