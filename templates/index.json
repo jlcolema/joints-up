@@ -330,8 +330,8 @@
         "1664424486a2b084ab-0": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/collage.png",
-            "image_rotation_degrees": -15,
+            "image": "shopify:\/\/shop_images\/home-image-right.jpg",
+            "image_rotation_degrees": 2,
             "subheading": "About Us",
             "title": "Delivering the highest quality hemp-derived products",
             "content": "<p>In order to accomplish this, we have partnered with the BEST of the BEST in each vertical within our industry to supplement our wide range of core competencies and provide a true turnkey development and manufacturing solution for our customers.<\/p>",
@@ -342,7 +342,8 @@
         "1664424486a2b084ab-1": {
           "type": "item",
           "settings": {
-            "image_rotation_degrees": 1.5,
+            "image": "shopify:\/\/shop_images\/home-image-left.jpg",
+            "image_rotation_degrees": -2,
             "subheading": "Innovation. Quality.",
             "title": "Quality Guaranteed.",
             "content": "<p>JointsUp & CannaGlobe upholds the highest quality standards in the industry because CannaGlobe manufacturing facilities have credible certifications. SmokeBud's facilities are located in the USA, are FDA Registered, cGMP compliant, uphold ISO 9001 quality management systems, utilize ISO 7 clean rooms, and all products are ISO 17025 tested, gluten-free, and non-GMO.<\/p>",
@@ -357,7 +358,7 @@
       ],
       "settings": {
         "full_width": false,
-        "images_layout": "stacked",
+        "images_layout": "scattered",
         "collage_images_alignment": "middle",
         "background": "",
         "background_gradient": "",
