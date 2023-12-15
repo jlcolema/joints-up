@@ -413,7 +413,7 @@
         "cd4cc9ea-051d-4173-96c8-aba75076e57b": {
           "type": "liquid",
           "settings": {
-            "liquid": "*** Display logo here. ***"
+            "liquid": "<div class=\"\">\n <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0560\/6830\/9126\/files\/ju-logo-v-white.png?v=1702403864\" alt=\"{{ shop.name }}\" class=\"\" \/>\n<\/div>"
           }
         },
         "1664424230c4756b0e-1": {
