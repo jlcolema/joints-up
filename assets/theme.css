@@ -5943,6 +5943,34 @@ split-lines {
   top: 1px;
 }
 
+/* "Shop Online" button */
+
+.header__shop-online {}
+
+/* For the button within the main header */
+.header .header__shop-online {
+  display: none;
+}
+
+@media (min-width: 1150px) {
+  .header .header__shop-online {
+    display: block;
+  }
+}
+
+/* For the button within the drawer */
+.navigation-drawer .header__shop-online {}
+
+  .header__shop-online a {
+    padding: 12px 38px;
+    text-transform: uppercase;
+    color: #ffffff;
+    background-color: rgb(234, 51, 104);
+  }
+
+  .header__shop-online a:focus,
+  .header__shop-online a:hover {}
+
 .header__icon-list {
   align-items: center;
   gap: var(--header-icon-list-spacing);
