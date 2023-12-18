@@ -6600,6 +6600,8 @@ split-lines {
 
     .image-link-blocks__item a {
       display: block;
+      color: #000000;
+      background-color: #ffffff;
     }
 
       .image-link-blocks__item img {}
