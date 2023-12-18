@@ -865,6 +865,13 @@ scroll-carousel {
   transition-delay: .1s;
 }
 
+  .content-over-media__logo {}
+
+    .content-over-media__img {
+      max-width: 212px;
+      margin: 0 auto;
+    }
+
 .content-over-media--sm {
   --content-over-media-height: 375px;
 }
@@ -5596,6 +5603,17 @@ split-lines {
   gap: var(--spacing-8);
   display: grid;
 }
+
+.footer__copyright {}
+
+  .footer__copyright a {}
+
+  .footer__copyright a:focus,
+  .footer__copyright a:hover {}
+
+  .footer__copyright .legal__link {
+    margin-left: 28px;
+  }
 
 @media screen and (min-width: 700px) {
   .footer {
