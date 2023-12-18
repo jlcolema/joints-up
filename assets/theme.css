@@ -2989,6 +2989,10 @@ model-media model-viewer, model-media .shopify-model-viewer-ui {
   display: flex;
 }
 
+  .price-list sale-price {
+    color: #ea3368;
+  }
+
 .price-list--lg {
   gap: var(--spacing-3);
 }
@@ -6588,7 +6592,6 @@ split-lines {
   align-items: start;
   display: grid;
 }
-
 
 @media (min-width: 1400px) {
   .image-link-blocks {
