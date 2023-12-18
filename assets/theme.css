@@ -6571,6 +6571,13 @@ split-lines {
   display: grid;
 }
 
+
+@media (min-width: 1400px) {
+  .image-link-blocks {
+    --image-link-blocks-items-per-row: 5 !important;
+  }
+}
+
 .image-link-blocks__item .content-over-media .circle-chevron {
   background: rgb(var(--text-color));
   color: rgb(var(--background));
