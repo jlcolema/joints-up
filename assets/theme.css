@@ -6578,6 +6578,18 @@ split-lines {
   }
 }
 
+  .image-link-blocks__item {}
+
+    .image-link-blocks__item a {
+      display: block;
+    }
+
+      .image-link-blocks__item img {}
+
+        .image-link-blocks__item img + div {
+          padding: 22px 30px;
+        }
+
 .image-link-blocks__item .content-over-media .circle-chevron {
   background: rgb(var(--text-color));
   color: rgb(var(--background));

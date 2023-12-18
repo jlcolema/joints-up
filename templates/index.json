@@ -94,9 +94,9 @@
             "stretch_image": true,
             "link_text": "Sample Packs",
             "link_url": "shopify:\/\/collections",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
+            "background": "#ffffff",
+            "text_color": "#000000",
+            "overlay_color": "rgba(0,0,0,0)",
             "overlay_opacity": 0
           }
         },
@@ -107,9 +107,9 @@
             "stretch_image": true,
             "link_text": "Celebrity Endorsed",
             "link_url": "shopify:\/\/collections",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
+            "background": "#ffffff",
+            "text_color": "#000000",
+            "overlay_color": "rgba(0,0,0,0)",
             "overlay_opacity": 0
           }
         },
@@ -120,9 +120,9 @@
             "stretch_image": true,
             "link_text": "Flower + PreRolls",
             "link_url": "shopify:\/\/collections",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
+            "background": "#ffffff",
+            "text_color": "#000000",
+            "overlay_color": "rgba(0,0,0,0)",
             "overlay_opacity": 0
           }
         },
@@ -133,9 +133,9 @@
             "stretch_image": true,
             "link_text": "Cartridges + Vape",
             "link_url": "shopify:\/\/collections",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
+            "background": "#ffffff",
+            "text_color": "#000000",
+            "overlay_color": "rgba(0,0,0,0)",
             "overlay_opacity": 0
           }
         },
@@ -146,9 +146,9 @@
             "stretch_image": true,
             "link_text": "Gummies + Edibles",
             "link_url": "shopify:\/\/collections",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
+            "background": "#ffffff",
+            "text_color": "#000000",
+            "overlay_color": "rgba(0,0,0,0)",
             "overlay_opacity": 0
           }
         }
@@ -168,9 +168,9 @@
         "content": "",
         "link_url": "",
         "link_text": "",
-        "background": "",
+        "background": "rgba(0,0,0,0)",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "rgba(0,0,0,0)",
         "heading_color": "",
         "heading_gradient": ""
       }
