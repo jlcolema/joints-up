@@ -59,13 +59,13 @@ Supported variables
 
   {%- comment -%}
   --------------------------------------------------------------------------------------------------------------------
-  PRODUCT MEDIA
+  PRODUCT MEDIA custom.product_url
   --------------------------------------------------------------------------------------------------------------------
   {%- endcomment -%}
 
   {%- if product.media.size > 0 -%}
     <div class="product-card__figure">
-      <a href="{{ product.url }}" data-instant>
+      <a href="{% if product.metafields.custom.product_url %}{{ product.metafields.custom.product_url }}{% else %}https://www.cannaglobe.biz/jointsup/retail/{% endif %}" data-instant>
         {%- capture sizes -%}
           {%- if stacked -%}
             (max-width: 699px) calc(100vw / {{ section.settings.products_per_row_mobile }} - 40px), (max-width: 1200px) calc(100vw / {{ 3 | at_most: section.settings.products_per_row_desktop }} - 64px), calc((100vw - 96px) / {{ section.settings.products_per_row_desktop }} - (24px / {{ section.settings.products_per_row_desktop }} * {{ section.settings.products_per_row_desktop | minus: 1 }}))
@@ -146,7 +146,7 @@ Supported variables
     <div class="v-stack gap-0.5 w-full {% if text_alignment == 'center' %}justify-items-center{% endif %}">
       {%- if show_rating and show_vendor == false or product.vendor == blank -%}
         <div class="rating-with-text">
-          <span class="product-card__title"><a href="{{ product.url }}" class="bold" data-instant>{{ product.title }}</a></span>
+          <span class="product-card__title"><a href="{% if product.metafields.custom.product_url %}{{ product.metafields.custom.product_url }}{% else %}https://www.cannaglobe.biz/jointsup/retail/{% endif %}" class="bold" data-instant>{{ product.title }}</a></span>
 
           {%- if text_alignment != 'center' -%}
             {%- capture rating_class -%}{% if mobile_reduced %}hidden sm:flex{% endif %}{%- endcapture -%}
@@ -154,7 +154,7 @@ Supported variables
           {%- endif -%}
         </div>
       {%- else -%}
-        <span class="product-card__title"><a href="{{ product.url }}" class="bold" data-instant>{{ product.title }}</a></span>
+        <span class="product-card__title"><a href="{% if product.metafields.custom.product_url %}{{ product.metafields.custom.product_url }}{% else %}https://www.cannaglobe.biz/jointsup/retail/{% endif %}" class="bold" data-instant>{{ product.title }}</a></span>
       {%- endif -%}
 
       {%- render 'price-list', product: product, text_alignment: text_alignment -%}
