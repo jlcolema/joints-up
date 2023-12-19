@@ -62,7 +62,7 @@
         "template--14917231476870__c0396cdd-07f1-4d6e-9994-8381bd75189f-richtext-1": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Choose from a selection of cannabis products including:<\/p><ul><li><a href=\"\/collections\" title=\"All collections\">Product Category One<\/a><\/li><li><a href=\"\/collections\" title=\"All collections\">Product Category Two<\/a><\/li><li><a href=\"\/collections\" title=\"All collections\">Product Category Three<\/a><\/li><li><a href=\"\/collections\" title=\"All collections\">Product Category Four<\/a><\/li><li><a href=\"\/collections\" title=\"All collections\">Product Category Five<\/a><\/li><\/ul><p>Click the link to purchase products online!<\/p>"
+            "content": "<p>Choose from a selection of cannabis products including:<\/p><ul><li><a href=\"\/collections\" title=\"All collections\">Product Category One<\/a><\/li><li><a href=\"https:\/\/www.cannaglobe.biz\/jointsup\/retail\" title=\"https:\/\/www.cannaglobe.biz\/jointsup\/retail\">Product Category Two<\/a><\/li><li><a href=\"https:\/\/www.cannaglobe.biz\/jointsup\/retail\" title=\"https:\/\/www.cannaglobe.biz\/jointsup\/retail\">Product Category Three<\/a><\/li><li><a href=\"https:\/\/www.cannaglobe.biz\/jointsup\/retail\" title=\"https:\/\/www.cannaglobe.biz\/jointsup\/retail\">Product Category Four<\/a><\/li><li><a href=\"https:\/\/www.cannaglobe.biz\/jointsup\/retail\" title=\"https:\/\/www.cannaglobe.biz\/jointsup\/retail\">Product Category Five<\/a><\/li><\/ul><p>Click the link to purchase products online!<\/p>"
           }
         },
         "96c2e49e-afec-4930-ac00-6111b7ffe385": {
@@ -71,7 +71,7 @@
             "style": "fill",
             "size": "base",
             "text": "Shop My Online CannaGlobe Store",
-            "url": "shopify:\/\/collections",
+            "url": "https:\/\/www.cannaglobe.biz\/jointsup\/retail",
             "background": "#ea3368",
             "text_color": ""
           }
@@ -117,7 +117,7 @@
             "image": "shopify:\/\/shop_images\/cat-sample-packs.jpg",
             "stretch_image": true,
             "link_text": "Sample Packs",
-            "link_url": "shopify:\/\/collections",
+            "link_url": "https:\/\/www.cannaglobe.biz\/jointsup\/retail",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -130,7 +130,7 @@
             "image": "shopify:\/\/shop_images\/cat-celebrity.jpg",
             "stretch_image": true,
             "link_text": "Celebrity Endorsed",
-            "link_url": "shopify:\/\/collections",
+            "link_url": "https:\/\/www.cannaglobe.biz\/jointsup\/retail",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -143,7 +143,7 @@
             "image": "shopify:\/\/shop_images\/cat-flowerprorolls.jpg",
             "stretch_image": true,
             "link_text": "Flower + PreRolls",
-            "link_url": "shopify:\/\/collections",
+            "link_url": "https:\/\/www.cannaglobe.biz\/jointsup\/retail",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -156,7 +156,7 @@
             "image": "shopify:\/\/shop_images\/cat-cartridges.jpg",
             "stretch_image": true,
             "link_text": "Cartridges + Vape",
-            "link_url": "shopify:\/\/collections",
+            "link_url": "https:\/\/www.cannaglobe.biz\/jointsup\/retail",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -169,7 +169,7 @@
             "image": "shopify:\/\/shop_images\/cat-edibles.jpg",
             "stretch_image": true,
             "link_text": "Gummies + Edibles",
-            "link_url": "shopify:\/\/collections",
+            "link_url": "https:\/\/www.cannaglobe.biz\/jointsup\/retail",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -204,7 +204,11 @@
       "settings": {
         "collection": "best-sellers",
         "products": [
-
+          "product-01",
+          "product-02",
+          "product-03",
+          "product-04",
+          "product-05"
         ],
         "full_width": true,
         "stack_products": false,
@@ -215,7 +219,7 @@
         "subheading": "",
         "title": "Best sellers",
         "content": "",
-        "link_url": "",
+        "link_url": "https:\/\/www.cannaglobe.biz\/jointsup\/retail",
         "link_text": "View all",
         "background": "",
         "background_gradient": "",
