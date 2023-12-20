@@ -5372,6 +5372,12 @@ split-lines {
   }
 }
 
+.shopify-section--multiple-images-with-text {}
+
+  .shopify-section--multiple-images-with-text .subheading {
+    font-size: 18px;
+  }
+
 .shopify-section--faq {}
 
   .shopify-section--faq .subheading {
