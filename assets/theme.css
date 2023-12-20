@@ -6609,7 +6609,9 @@ split-lines {
   }
 }
 
-  .image-link-blocks__item {}
+  .image-link-blocks__item {
+    font-size: 18px;
+  }
 
     .image-link-blocks__item a {
       display: block;
