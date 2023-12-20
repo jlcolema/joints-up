@@ -5372,6 +5372,17 @@ split-lines {
   }
 }
 
+.shopify-section--faq {}
+
+  .shopify-section--faq .subheading {
+    font-size: var(--text-h2);
+    line-height: 1.1;
+  }
+
+  .shopify-section--faq .subheading + h2 {
+    margin-top: 0;
+  }
+
 .faq-availability {
   gap: var(--spacing-6);
   text-align: center;
