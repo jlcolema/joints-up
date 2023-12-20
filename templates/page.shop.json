@@ -28,11 +28,14 @@
         "template--14916548067462__0be40b1f-741d-4c43-b85e-3eca0c7032f9-subheading-1",
         "template--14916548067462__0be40b1f-741d-4c43-b85e-3eca0c7032f9-heading-1"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
+        "full_width": false,
+        "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "sm",
+        "image_size": "auto",
         "image": "shopify:\/\/shop_images\/banner-ShopProducts_2x_378e5436-0308-4d01-ab1b-27b5efd803a5.jpg",
         "mobile_text_position": "place-self-center-start text-start",
         "desktop_text_position": "sm:place-self-center-start sm:text-start",

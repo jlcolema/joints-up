@@ -2018,6 +2018,10 @@ scroll-carousel {
   padding-inline-end: max(var(--calculated-section-spacing-inline), 50% - var(--container-max-width) / 2);
 }
 
+[role="main"] .shopify-section:first-child .section {
+  padding-top: 0;
+}
+
 .section--tight {
   --calculated-section-spacing-block-start: min(48px, var(--section-spacing-block-start, var(--section-spacing-block, var(--context-section-spacing-block-start))));
   --calculated-section-spacing-block-end: min(48px, var(--section-spacing-block-end, var(--section-spacing-block, var(--context-section-spacing-block-end))));
