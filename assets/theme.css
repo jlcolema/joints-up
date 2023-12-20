@@ -8380,6 +8380,12 @@ split-lines {
   position: relative;
 }
 
+  .slideshow__slide .prose {}
+
+    .slideshow__slide .subheading {
+      font-size: 18px;
+    }
+
 .slideshow__slide:not(.is-selected) {
   opacity: 0;
   visibility: hidden;
