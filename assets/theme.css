@@ -5960,6 +5960,12 @@ split-lines {
   display: none;
 }
 
+  .header__link-list ul {}
+
+    .header__link-list li {
+      font-size: 18px;
+    }
+
 .header__link-list .icon-chevron-bottom {
   position: relative;
   top: 1px;
