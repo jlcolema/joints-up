@@ -5388,7 +5388,9 @@ split-lines {
 
 .shopify-section--image-with-text-overlay {}
 
-  .shopify-section--image-with-text-overlay .button {}
+  .shopify-section--image-with-text-overlay .button {
+    box-shadow: #ffffff inset 0 0 0 2px;
+  }
 
   .shopify-section--image-with-text-overlay .button:focus,
   .shopify-section--image-with-text-overlay .button:hover {
