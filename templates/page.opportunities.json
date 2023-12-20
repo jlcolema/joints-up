@@ -32,8 +32,8 @@
         "full_width": false,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/header-opportunity.jpg",
+        "image_size": "sm",
+        "image": "shopify:\/\/shop_images\/banner-opportunity.jpg",
         "mobile_text_position": "place-self-center-start text-start",
         "desktop_text_position": "sm:place-self-center-start sm:text-start",
         "text_color": "#ffffff",
@@ -150,8 +150,8 @@
         "template--14916908974214__d28e12cf-7b65-4a49-b17b-3b4e112b4058-item-1": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/opportunity-image_l.jpg",
-            "image_rotation_degrees": -2,
+            "image": "shopify:\/\/shop_images\/opportunity-image-l.jpg",
+            "image_rotation_degrees": 2,
             "subheading": "Opportunity is waiting",
             "title": "Join the CannaGlobe Family Network and Make Money",
             "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.<\/p>",
@@ -162,8 +162,8 @@
         "template--14916908974214__d28e12cf-7b65-4a49-b17b-3b4e112b4058-item-2": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/opportunity-image_r.jpg",
-            "image_rotation_degrees": 1.5,
+            "image": "shopify:\/\/shop_images\/opportunity-image-r.jpg",
+            "image_rotation_degrees": -2,
             "subheading": "Subheading",
             "title": "Heading",
             "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.<\/p>",
@@ -178,7 +178,7 @@
       ],
       "settings": {
         "full_width": false,
-        "images_layout": "collage",
+        "images_layout": "scattered",
         "collage_images_alignment": "middle",
         "background": "",
         "background_gradient": "",
