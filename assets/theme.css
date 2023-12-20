@@ -545,7 +545,7 @@ height-observer, visibility-progress, scroll-area, video-media, model-media, med
   background-color: rgb(var(--button-background));
   color: rgb(var(--button-text-color));
   text-align: center;
-  font-size: var(--text-sm);
+  font-size: 18px !important;
   letter-spacing: var(--text-letter-spacing);
   padding-block-start: var(--spacing-2-5);
   padding-block-end: var(--spacing-2-5);
