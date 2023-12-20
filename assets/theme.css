@@ -2827,6 +2827,7 @@ model-media model-viewer, model-media .shopify-model-viewer-ui {
 }
 
 .product-card__title {
+  font-size: 18px;
   line-height: 1.5;
 }
 
