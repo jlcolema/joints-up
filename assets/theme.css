@@ -558,6 +558,14 @@ height-observer, visibility-progress, scroll-area, video-media, model-media, med
   position: relative;
 }
 
+.button:focus,
+.button:hover,
+.btn:focus,
+.btn:hover {
+  color: #ffffff;
+  background-color: #43c29f;
+}
+
 .button--sm {
   font-size: var(--text-xs);
   padding-block-start: var(--spacing-2);
@@ -5378,6 +5386,15 @@ split-lines {
     font-size: 18px;
   }
 
+.shopify-section--image-with-text-overlay {}
+
+  .shopify-section--image-with-text-overlay .button {}
+
+  .shopify-section--image-with-text-overlay .button:focus,
+  .shopify-section--image-with-text-overlay .button:hover {
+    background-color: #ea3368;
+  }
+
 .shopify-section--faq {}
 
   .shopify-section--faq .subheading {
@@ -6016,10 +6033,13 @@ split-lines {
     text-transform: uppercase;
     color: #ffffff;
     background-color: rgb(234, 51, 104);
+    transition: background-color .15s ease-in-out, color .15s ease-in-out;
   }
 
   .header__shop-online a:focus,
-  .header__shop-online a:hover {}
+  .header__shop-online a:hover {
+    background-color: #43c29f;
+  }
 
 .header__icon-list {
   align-items: center;
@@ -8408,6 +8428,16 @@ split-lines {
 
     .slideshow__slide .subheading {
       font-size: 18px;
+    }
+
+    .slideshow__slide .button {
+      box-shadow: #ffffff inset 0 0 0 2px;
+    }
+
+    .slideshow__slide .button:focus,
+    .slideshow__slide .button:hover {
+      color: #ffffff;
+      background-color: #ea3368;
     }
 
 .slideshow__slide:not(.is-selected) {
