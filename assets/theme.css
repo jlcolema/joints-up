@@ -5400,6 +5400,12 @@ split-lines {
   }
 }
 
+.shopify-section--media-grid {}
+
+  .shopify-section--media-grid p {
+    text-shadow: 1px 1px 3px #000000B3;
+  }
+
 .shopify-section--multiple-images-with-text {}
 
   .shopify-section--multiple-images-with-text .subheading {
@@ -5449,7 +5455,7 @@ split-lines {
   .shopify-section--blog-posts .blog-post-card {}
 
     .shopify-section--blog-posts .h3 {
-      font-size: var(--text-h4);
+      font-size: 26px;
     }
 
     .shopify-section--blog-posts .blog-post-card__meta {
