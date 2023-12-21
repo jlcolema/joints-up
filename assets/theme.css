@@ -6058,6 +6058,10 @@ split-lines {
 
 .header__shop-online {}
 
+  .header__shop-online a {
+    border-radius: var(--rounded-button);
+  }
+
 /* For the button within the main header */
 .header .header__shop-online {
   display: none;
