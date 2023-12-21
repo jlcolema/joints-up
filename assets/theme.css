@@ -25,6 +25,12 @@ body {
   position: relative;
 }
 
+@media (max-width: 1149px) {
+  body {
+    background-color: #ededed;
+  }
+}
+
 hr {
   color: inherit;
   border-top-width: 1px;
@@ -1996,8 +2002,14 @@ scroll-carousel {
   --hash-difference: calc(var(--section-background-hash)  - var(--previous-section-background-hash, -1));
   --hash-difference-abs: max(var(--hash-difference), -1 * var(--hash-difference));
   --background-differs-from-previous: max(0, min(var(--hash-difference-abs, 1), 1));
-  background: rgb(var(--background));
+  background: #ededed;
   position: relative;
+}
+
+@media (min-width: 1150px) {
+  [role="main"] .shopify-section {
+    background: rgb(var(--background));
+  }
 }
 
 [role="main"] .shopify-section:not(.contents) {
@@ -5377,6 +5389,14 @@ split-lines {
 @media screen and (min-width: 700px) {
   .contact-form {
     padding: var(--spacing-10) var(--spacing-12);
+  }
+}
+
+.shopify-section--header {}
+
+@media (max-width: 1149px) {
+  .shopify-section--header:not(.shopify-section--header) {
+    background-color: #ededed;
   }
 }
 
