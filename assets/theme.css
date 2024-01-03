@@ -5996,6 +5996,11 @@ split-lines {
   display: grid;
 }
 
+.header.is-filled .header__wrapper {
+  background-color: #ffffff;
+  box-shadow: 0 0 1em rgba(0, 0, 0, 0.15);
+}
+
 .header__logo {
   grid-area: logo;
   max-width: max-content;
