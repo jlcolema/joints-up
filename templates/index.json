@@ -199,7 +199,7 @@
             "image": "shopify:\/\/shop_images\/fpo_-_shop_image.jpg",
             "title": "Shop Products Here",
             "heading_tag": "h4",
-            "link_url": "shopify:\/\/pages\/shop",
+            "link_url": "https:\/\/www.cannaglobe.biz\/jointsup\/retail",
             "link_text": "",
             "mobile_text_position": "place-self-end-start text-start",
             "desktop_column_span": 2,
@@ -433,7 +433,7 @@
             "style": "outline",
             "size": "lg",
             "text": "Online Store",
-            "url": "shopify:\/\/collections",
+            "url": "https:\/\/www.cannaglobe.biz\/jointsup\/retail",
             "background": "",
             "text_color": "#ffffff"
           }
