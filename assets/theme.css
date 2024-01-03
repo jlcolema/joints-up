@@ -4431,10 +4431,15 @@ split-lines {
   column-gap: var(--spacing-4);
   flex-wrap: wrap;
   display: flex;
+  color: #ea3368;
 }
 
 .article__meta .text-with-icon {
   gap: var(--spacing-2);
+}
+
+.article__meta .link-faded {
+  opacity: 1;
 }
 
 @media screen and (min-width: 1150px) {
