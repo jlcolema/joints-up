@@ -5706,6 +5706,7 @@ split-lines {
 
   .footer__copyright .legal__link {
     margin-left: 28px;
+    text-transform: lowercase;
   }
 
 @media screen and (min-width: 700px) {
