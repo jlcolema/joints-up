@@ -476,7 +476,12 @@ height-observer, visibility-progress, scroll-area, video-media, model-media, med
   gap: var(--blog-post-card-meta-gap);
   flex-wrap: wrap;
   display: flex;
+  color: #ea3368;
 }
+
+  .blog-post-card__meta .link-faded {
+    opacity: 1;
+  }
 
 .blog-post-card--featured {
   grid-column: 1 / -1;
@@ -5458,13 +5463,9 @@ split-lines {
       font-size: 26px;
     }
 
-    .shopify-section--blog-posts .blog-post-card__meta {
-      color: #ea3368;
-    }
+    .shopify-section--blog-posts .blog-post-card__meta {}
 
-      .shopify-section--blog-posts .link-faded {
-        opacity: 1;
-      }
+      .shopify-section--blog-posts .link-faded {}
 
 .feature-chart {
   padding: 0 var(--container-gutter);
