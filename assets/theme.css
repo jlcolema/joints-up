@@ -6061,6 +6061,11 @@ split-lines {
       font-size: 18px;
     }
 
+      .header__link-list li a:hover {
+        color: #ea3368;
+        opacity: 1;
+      }
+
 .header__link-list .icon-chevron-bottom {
   position: relative;
   top: 1px;
@@ -6363,6 +6368,17 @@ split-lines {
   height: 100%;
   overflow-y: auto;
 }
+
+  .navigation-drawer .panel__scroller ul {}
+
+    .navigation-drawer .panel__scroller ul li {}
+
+      .navigation-drawer .panel__scroller ul li a {}
+
+      .navigation-drawer .panel__scroller ul li a:focus,
+      .navigation-drawer .panel__scroller ul li a:hover {
+        color: #ea3368;
+      }
 
 .navigation-drawer > [is="close-button"] {
   margin-inline-start: var(--drawer-body-padding);
