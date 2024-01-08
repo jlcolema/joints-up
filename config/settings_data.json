@@ -28,7 +28,7 @@
     "currency_code_enabled": false,
     "show_page_transition": true,
     "heading_apparition": "split_fade",
-    "show_secondary_image": false,
+    "show_secondary_image": true,
     "show_quick_buy": false,
     "show_product_rating": false,
     "show_sold_out_badge": true,
