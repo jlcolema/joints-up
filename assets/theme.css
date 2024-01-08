@@ -2809,6 +2809,24 @@ model-media model-viewer, model-media .shopify-model-viewer-ui {
   position: relative;
 }
 
+  .product-card:not(.product-card--show-secondary-media) {}
+
+    .product-card:not(.product-card--show-secondary-media) .product-card__figure {
+      overflow: hidden;
+    }
+
+      .product-card:not(.product-card--show-secondary-media) a {}
+
+        .product-card:not(.product-card--show-secondary-media) img {
+          transform-origin: center;
+          transition: transform 1.5s cubic-bezier(.22, 1, .36, 1);
+        }
+
+    .product-card:not(.product-card--show-secondary-media) .product-card__figure:focus img,
+    .product-card:not(.product-card--show-secondary-media) .product-card__figure:hover img {
+      transform: scale(1.06);
+    }
+
 .product-card__figure {
   display: block;
   position: relative;
