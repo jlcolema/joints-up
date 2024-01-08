@@ -6736,7 +6736,13 @@ split-lines {
       .image-link-blocks__item img {}
 
         .image-link-blocks__item img + div {
-          padding: 22px 30px;
+          padding: 20px;
+        }
+
+        @media (min-width: 1024px) {
+          .image-link-blocks__item img + div {
+            padding: 22px 30px;
+          }
         }
 
 .image-link-blocks__item .content-over-media .circle-chevron {
