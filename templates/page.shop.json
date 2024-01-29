@@ -65,7 +65,7 @@
         "template--14917231476870__c0396cdd-07f1-4d6e-9994-8381bd75189f-richtext-1": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Choose from a selection of cannabis products including:<\/p><ul><li><a href=\"https:\/\/www.cannaglobe.biz\/jointsup\/retail\" title=\"https:\/\/www.cannaglobe.biz\/jointsup\/retail\">Product Category One<\/a><\/li><li><a href=\"https:\/\/www.cannaglobe.biz\/jointsup\/retail\" title=\"https:\/\/www.cannaglobe.biz\/jointsup\/retail\">Product Category Two<\/a><\/li><li><a href=\"https:\/\/www.cannaglobe.biz\/jointsup\/retail\" title=\"https:\/\/www.cannaglobe.biz\/jointsup\/retail\">Product Category Three<\/a><\/li><li><a href=\"https:\/\/www.cannaglobe.biz\/jointsup\/retail\" title=\"https:\/\/www.cannaglobe.biz\/jointsup\/retail\">Product Category Four<\/a><\/li><li><a href=\"https:\/\/www.cannaglobe.biz\/jointsup\/retail\" title=\"https:\/\/www.cannaglobe.biz\/jointsup\/retail\">Product Category Five<\/a><\/li><\/ul><p>Click the link to purchase products online!<\/p>"
+            "content": "<p>Choose from a selection of cannabis products including:<\/p><ul><li><a href=\"https:\/\/shift.store\/jointsup\/retail\/?catID=107\" title=\"https:\/\/shift.store\/jointsup\/retail\/?catID=107\">MICRO.DOSE<\/a><\/li><li><a href=\"https:\/\/shift.store\/jointsup\/retail\/?catID=7\" title=\"https:\/\/shift.store\/jointsup\/retail\/?catID=7\">MAXOUTRX<\/a><\/li><li><a href=\"https:\/\/shift.store\/jointsup\/retail\/?catID=5\" title=\"https:\/\/shift.store\/jointsup\/retail\/?catID=5\">SMOKEBUDS<\/a><\/li><li><a href=\"https:\/\/shift.store\/jointsup\/retail\/?catID=61\" title=\"https:\/\/shift.store\/jointsup\/retail\/?catID=61\">GIGGLES<\/a><\/li><li><a href=\"https:\/\/shift.store\/jointsup\/retail\/?catID=34\" title=\"https:\/\/shift.store\/jointsup\/retail\/?catID=34\">BAKEABLES<\/a><\/li><\/ul><p>Click the link to purchase products online!<\/p>"
           }
         },
         "96c2e49e-afec-4930-ac00-6111b7ffe385": {
@@ -74,7 +74,7 @@
             "style": "fill",
             "size": "base",
             "text": "Shop My Online CannaGlobe Store",
-            "url": "https:\/\/www.cannaglobe.biz\/jointsup\/retail",
+            "url": "https:\/\/shift.store\/jointsup\/retail",
             "background": "#ea3368",
             "text_color": ""
           }
@@ -232,57 +232,6 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
-    },
-    "c3911c51-9c93-4eae-91c3-e3515a409dcd": {
-      "type": "press",
-      "blocks": {
-        "template--14917231476870__c3911c51-9c93-4eae-91c3-e3515a409dcd-quote-1": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "Hemp Connoisseur",
-            "content": "JointsUp is known for providing a first-class buying experience with a large selection of all the \"good stuff!\"",
-            "show_rating": false,
-            "rating": 4
-          }
-        },
-        "template--14917231476870__c3911c51-9c93-4eae-91c3-e3515a409dcd-quote-2": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "Jane Appleseed",
-            "content": "Write some content about what they says about your store.",
-            "show_rating": false,
-            "rating": 4
-          }
-        },
-        "template--14917231476870__c3911c51-9c93-4eae-91c3-e3515a409dcd-quote-3": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "Johnny Appleseed",
-            "content": "Write some content about what they says about your store.",
-            "show_rating": false,
-            "rating": 4
-          }
-        }
-      },
-      "block_order": [
-        "template--14917231476870__c3911c51-9c93-4eae-91c3-e3515a409dcd-quote-1",
-        "template--14917231476870__c3911c51-9c93-4eae-91c3-e3515a409dcd-quote-2",
-        "template--14917231476870__c3911c51-9c93-4eae-91c3-e3515a409dcd-quote-3"
-      ],
-      "settings": {
-        "full_width": false,
-        "content_size": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
     }
   },
   "order": [
@@ -290,7 +239,6 @@
     "0be40b1f-741d-4c43-b85e-3eca0c7032f9",
     "c0396cdd-07f1-4d6e-9994-8381bd75189f",
     "da35942d-edb8-4207-9000-456d3e763ac0",
-    "b044fc2e-f5d3-41dc-a26e-c4aa3808d889",
-    "c3911c51-9c93-4eae-91c3-e3515a409dcd"
+    "b044fc2e-f5d3-41dc-a26e-c4aa3808d889"
   ]
 }

@@ -121,7 +121,7 @@
             "style": "fill",
             "size": "lg",
             "text": "Opportunity Awaits You Here",
-            "url": "shopify:\/\/collections",
+            "url": "https:\/\/www.cannaglobe.biz\/jointsup\/opportunity",
             "background": "#ffffff",
             "text_color": "#ea3368"
           }
@@ -154,27 +154,14 @@
             "image_rotation_degrees": 2,
             "subheading": "Opportunity is waiting",
             "title": "Join the CannaGlobe Family Network and Make Money",
-            "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.<\/p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "template--14916908974214__d28e12cf-7b65-4a49-b17b-3b4e112b4058-item-2": {
-          "type": "item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/opportunity-image-r.jpg",
-            "image_rotation_degrees": -2,
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.<\/p>",
-            "button_url": "",
+            "content": "",
+            "button_url": "https:\/\/www.cannaglobe.biz\/0\/opportunity",
             "button_text": ""
           }
         }
       },
       "block_order": [
-        "template--14916908974214__d28e12cf-7b65-4a49-b17b-3b4e112b4058-item-1",
-        "template--14916908974214__d28e12cf-7b65-4a49-b17b-3b4e112b4058-item-2"
+        "template--14916908974214__d28e12cf-7b65-4a49-b17b-3b4e112b4058-item-1"
       ],
       "settings": {
         "full_width": false,
@@ -190,46 +177,32 @@
     "af3aef3d-a3d5-4c32-9ad3-edbafa1211e9": {
       "type": "faq",
       "blocks": {
-        "template--14916908974214__af3aef3d-a3d5-4c32-9ad3-edbafa1211e9-item-1": {
-          "type": "item",
-          "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"
-          }
-        },
         "template--14916908974214__af3aef3d-a3d5-4c32-9ad3-edbafa1211e9-item-3": {
           "type": "item",
           "settings": {
             "title": "Do I need to setup an account to place an order?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.<\/p>"
+            "content": "<p><a href=\"https:\/\/cannaglobe.com\/contact-us\/\" title=\"https:\/\/cannaglobe.com\/contact-us\/\">You can contact us through our contact page! We will be happy to assist you.<\/a><\/p>"
           }
         },
-        "2cb55dd0-d72b-46fa-b692-3d033c35e263": {
+        "item_i4NfXw": {
           "type": "item",
           "settings": {
-            "title": "Do you offer gift wrapping?",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..<\/p>"
+            "title": "Do you ship internationally?",
+            "content": "<p><a href=\"https:\/\/shift.store\/jointsup\" title=\"https:\/\/shift.store\/jointsup\">Yes, every country is listed on the drop down menu here.<\/a><\/p>"
           }
         },
         "template--14916908974214__af3aef3d-a3d5-4c32-9ad3-edbafa1211e9-item-2": {
           "type": "item",
           "settings": {
             "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"
+            "content": "<p>It depends on where you are. <em>5-7 business day shipping on orders placed before 3:00PM MST<\/em>. <\/p>"
           }
         },
         "aa273c14-010c-439f-bc60-2f86127d6542": {
           "type": "item",
           "settings": {
             "title": "What is your return policy?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"
-          }
-        },
-        "3bbdb121-d952-482e-aa0b-b94fb15ac83b": {
-          "type": "item",
-          "settings": {
-            "title": "Any question?",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..<\/p>"
+            "content": "<p><a href=\"https:\/\/cannaglobe.com\/return-and-refund-policy\/#:~:text=If%20for%20any%20reason%20you,a%20full%20refund%20or%20exchange.\" title=\"https:\/\/cannaglobe.com\/return-and-refund-policy\/#:~:text=If%20for%20any%20reason%20you,a%20full%20refund%20or%20exchange.\">You may request a refund of any amounts charged by contacting customer service at info@cannaglobe.com. If for any reason you are not completely satisfied with any products purchased directly from CannaGlobe or via our website, you may request a refund within fifteen (15) days from the date of purchase for a full refund or exchange. <\/a><\/p>"
           }
         },
         "6614dfa1-3b74-42ca-b358-32c141b8bae2": {
@@ -242,12 +215,10 @@
         }
       },
       "block_order": [
-        "template--14916908974214__af3aef3d-a3d5-4c32-9ad3-edbafa1211e9-item-1",
         "template--14916908974214__af3aef3d-a3d5-4c32-9ad3-edbafa1211e9-item-3",
-        "2cb55dd0-d72b-46fa-b692-3d033c35e263",
+        "item_i4NfXw",
         "template--14916908974214__af3aef3d-a3d5-4c32-9ad3-edbafa1211e9-item-2",
         "aa273c14-010c-439f-bc60-2f86127d6542",
-        "3bbdb121-d952-482e-aa0b-b94fb15ac83b",
         "6614dfa1-3b74-42ca-b358-32c141b8bae2"
       ],
       "settings": {

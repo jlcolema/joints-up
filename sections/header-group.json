@@ -8,21 +8,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Free standard shipping on order over $99",
+            "text": "",
             "url": ""
           }
         },
         "c62f0522-9cd6-45e9-8051-e15b1a2ec061": {
           "type": "message",
           "settings": {
-            "text": "Promo ticker bar here",
+            "text": "",
             "url": ""
           }
         },
         "a0e1c9d5-e6e4-4c8f-b9a6-202fbc040767": {
           "type": "message",
           "settings": {
-            "text": "A question? Visit our contact page to send us a message",
+            "text": "Have a question? Visit our contact page to send us a message",
             "url": "shopify:\/\/pages\/contact"
           }
         }

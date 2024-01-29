@@ -5,34 +5,6 @@
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
-        "free-shipping": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-star",
-            "custom_icon": "shopify:\/\/shop_images\/star.svg",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Backed by Cannaglobe",
-            "content": "<p>Products guaranteed to be highest quality.<\/p>"
-          }
-        },
-        "customer-support": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-earth",
-            "custom_icon": "shopify:\/\/shop_images\/earth-americas.svg",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Free Shipping",
-            "content": "<p>Free worldwide shipping on all orders of $99+<\/p>"
-          }
-        },
         "discount": {
           "type": "item",
           "settings": {
@@ -44,7 +16,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "Customer Support",
-            "content": "<p>Our support team is available M-F, 8a-8p<\/p>"
+            "content": "<p><a href=\"https:\/\/cannaglobe.com\/contact-us\/\" title=\"https:\/\/cannaglobe.com\/contact-us\/\"><strong>Contact Us<\/strong><\/a><\/p>"
           }
         },
         "payment": {
@@ -60,13 +32,26 @@
             "title": "Secure Payment",
             "content": "<p>All payments are processed securely<\/p>"
           }
+        },
+        "free-shipping": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-star",
+            "custom_icon": "shopify:\/\/shop_images\/star.svg",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Backed by Cannaglobe",
+            "content": "<p>Products guaranteed to be highest quality.<\/p>"
+          }
         }
       },
       "block_order": [
-        "free-shipping",
-        "customer-support",
         "discount",
-        "payment"
+        "payment",
+        "free-shipping"
       ],
       "settings": {
         "full_width": true,
@@ -89,7 +74,7 @@
             "image": "shopify:\/\/shop_images\/ju-logo-v-color.png",
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Sign up for news, updates & 10% off your first order.",
+            "title": "Sign up for news and updates.",
             "content": ""
           }
         },
@@ -126,8 +111,8 @@
       ],
       "settings": {
         "show_social_media": true,
-        "show_payment_icons": true,
-        "show_country_selector": true,
+        "show_payment_icons": false,
+        "show_country_selector": false,
         "show_country_flag": true,
         "show_country_name": true,
         "show_locale_selector": true
